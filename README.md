@@ -1,1 +1,1 @@
-# Malaria-Dtection-Model-using-CNN
+# Malaria-Detection-Model-using-CNN
